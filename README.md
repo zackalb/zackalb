@@ -1,5 +1,5 @@
-# Hi, I'm Zack 👋
-Vocational Student | Learning Web Developer | UI/UX Figma & Adobe illustrator | 
+  # Hi, I'm Zack 👋
+
 
 ---
 
