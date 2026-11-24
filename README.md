@@ -45,10 +45,10 @@
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,dart,kotlin,python)](https://skillicons.dev)
 
 **Frameworks & Libraries**  
-[![Frameworks](https://skillicons.dev/icons?i=laravel,tailwind,react,flutter)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=laravel,tailwind,react,flutter,bootstrap)](https://skillicons.dev)
 
 **Database, Server & Tools**  
-[![Tools](https://skillicons.dev/icons?i=mysql,sqlite,git,github,nginx,ubuntu,cloudflare,figma,vscode,androidstudio)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mysql,sqlite,git,github,nginx,ubuntu,cloudflare,figma,vscode,androidstudio,adobeillustrator)](https://skillicons.dev)
 
 </div>
 
