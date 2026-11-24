@@ -10,16 +10,16 @@
 
   <!-- Social Media Badges -->
   <p>
-    <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+    <a href="https://instagram.com/_zhyak44" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://youtube.com/@USERNAME_KAMU" target="_blank">
+    <a href="https://youtube.com/@Jeqqy12" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
-    <a href="https://wa.me/628XXXXXXXXXX" target="_blank">
+    <a href="https://wa.me/6281224868150" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="mailto:emailkamu@gmail.com">
+    <a href="mailto:zackalbab08@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
