@@ -1,25 +1,67 @@
-  # Hi, I'm Zack 👋
+<div align="center">
+  <!-- Animasi Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Zaka+U.+Albab+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;UI%2FUX+Designer+from+Indonesia" alt="Typing SVG" />
+  </a>
 
+  <p>
+    Software Engineering (PPLG) student at <b>SMKN 1 Ciamis</b> passionate about building clean, functional web & mobile applications.
+  </p>
+
+  <!-- Social Media Badges -->
+  <p>
+    <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://youtube.com/@USERNAME_KAMU" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://wa.me/628XXXXXXXXXX" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="mailto:emailkamu@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📫 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_zhyak44?igsh=MW9sazN5NXoxb3hyYQ==)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jeqqy12?si=5GjpmhrnsdIZVEVL)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281224868150)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakaalbab12@gmail.com)
+### 👨‍💻 About Me
+
+- 🎓 Student at **SMKN 1 Ciamis** majoring in Software & Game Development (**PPLG**).
+- 💻 Focused on **Full-Stack Web Development**, **Mobile Apps**, and **UI/UX Design**.
+- 🚀 Currently building scalable web & mobile projects using **Laravel**, **React**, and **Flutter**.
+- 🎨 Designing clean user interfaces & prototypes with **Figma**.
+- 📍 Based in **Ciamis, West Java, Indonesia**.
 
 ---
 
-## 💻 the language and tools being learned
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logovisual-studio-codeede&logoColor=white)
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Languages**  
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,dart,kotlin,python)](https://skillicons.dev)
+
+**Frameworks & Libraries**  
+[![Frameworks](https://skillicons.dev/icons?i=laravel,tailwind,react,flutter)](https://skillicons.dev)
+
+**Database, Server & Tools**  
+[![Tools](https://skillicons.dev/icons?i=mysql,sqlite,git,github,nginx,ubuntu,cloudflare,figma,vscode,androidstudio)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zackalb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Zaka's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackalb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=zackalb&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
